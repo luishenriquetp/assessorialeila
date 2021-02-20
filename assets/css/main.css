@@ -3303,7 +3303,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper.style5 .features li {
-					border-top-color: #fff;
+					border-top-color: #dfdfdf;
 				}
 
 			}

@@ -2977,7 +2977,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper.style1 .features li {
-					border-top-color: rgba(0, 0, 0, 0.125);
+					border-top-color: #fff;
 				}
 
 			}
@@ -3140,7 +3140,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper.style3 .features li {
-					border-top-color: rgba(0, 0, 0, 0.125);
+					border-top-color: #fff;
 				}
 
 			}
@@ -3303,7 +3303,7 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.wrapper.style5 .features li {
-					border-top-color: #dfdfdf;
+					border-top-color: #fff;
 				}
 
 			}

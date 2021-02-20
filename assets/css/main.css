@@ -3480,6 +3480,7 @@ input, select, textarea {
 				display: block;
 				height: inherit;
 				line-height: inherit;
+                font-size: 1.2em;
 			}
 
 				@media screen and (max-width: 736px) {

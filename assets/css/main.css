@@ -2719,7 +2719,8 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(160, 32, 240, 0.7);
+			background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
 		}
 
 		.spotlight:nth-child(5) {
@@ -3825,10 +3826,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
+		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3975,10 +3976,10 @@ input, select, textarea {
 /* Landing */
 
 	body.landing #page-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
+		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -3996,10 +3997,10 @@ input, select, textarea {
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
-		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner1.jpg");
+		background-image: -moz-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: -ms-linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
+		background-image: linear-gradient(top, rgba(213,173,109,0.5), rgba(213,173,109,0.5)), url("../../images/banner01.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
